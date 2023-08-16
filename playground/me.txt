@@ -1,1 +1,6 @@
+{{#Andrewmanoji}
+Name: Andrew Manoji A
+Skills: HTML, CSS, JS, React.js, MySQL, C, Python, Java, Django, React Native, Blockchain, Bootstrap
+Email: andrewmanoji.23it@licet.ac.in
+{{/Andrewmanoji}}
 
